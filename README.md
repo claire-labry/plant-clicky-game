@@ -1,1 +1,3 @@
-# plant-clicky-game
+# Plant Clicky Game
+
+## Test Your Memory of plants!
