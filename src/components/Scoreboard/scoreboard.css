@@ -1,0 +1,62 @@
+h3,
+h4 {
+  display: inline;
+  cursor: default;
+  font-family: 'Fira Code', monospace;
+  color: #122617;
+  background-color: #f27d72;
+  border-radius: 50px;
+  text-align: center;
+  padding: 10px;
+}
+h3 {
+  font-size: 2.5em;
+  margin-bottom: 10px;
+}
+h4 {
+  font-size: 1.5rem;
+}
+
+.scoreboard {
+  margin-bottom: 10px;
+}
+
+.col-left {
+  text-align: left;
+}
+
+.col-right {
+  text-align: right;
+  padding-top: 20px;
+  padding-right: 50px;
+}
+
+.alert-danger {
+  font-family: 'Fira Code', monospace;
+  text-transform: uppercase;
+}
+
+.alert-success {
+  font-family: 'Fira Code', monospace;
+  text-transform: uppercase;
+}
+
+.footer {
+  background-color: #f27d72;
+  position: sticky;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  padding: 20px;
+  text-align: center;
+  z-index: 4;
+  font-size: 2.5rem;
+}
+
+.footer a {
+  color: #f24c27;
+}
+.footer a:hover {
+  color: #122617;
+  text-decoration: none;
+}
