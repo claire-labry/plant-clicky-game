@@ -19,20 +19,20 @@ class App extends Component {
     topScore: 0,
     displayAlert: 0,
     showSuccess: 0,
-    clickPhoto: [],
+    clickedplants: [],
   };
 
-  clickPhoto = (id) => {
-    let clickPhoto = this.state.clickPhoto;
+  clickedPhoto = (id) => {
+    let clickedplants = this.state.clickedplants;
     let score = this.state.score;
     let topScore = this.state.topScore;
     this.setState({
       displayAlert: 0,
     });
 
-    if (clickPhoto.indexOf(id) === -1) {
-      clickPhoto.push(id);
-      console.log(clickPhoto);
+    if (clickedplants.indexOf(id) === -1) {
+      clickedplants.push(id);
+      console.log(clickedplants);
 
       this.handleIncrement();
       this.createMix();
@@ -40,12 +40,12 @@ class App extends Component {
       this.setState({
         showSuccess: 1,
         score: 0,
-        clickPhotos: [],
+        clickplants: [],
       });
     } else {
       this.setState({
         score: 0,
-        clickPhoto: [],
+        clickplants: [],
       });
       console.log('duplicate');
       this.setState({
@@ -96,6 +96,7 @@ class App extends Component {
               key={plant.id}
               name={plant.name}
               image={plant.image}
+              clickedPhoto={this.clickedPhoto}
             />
           ))}
         </div>

@@ -5,7 +5,7 @@ function Scoreboard(props) {
   return (
     <header className='scoreboard'>
       <div className='row'>
-        <div className='col-md-6 col-left'>
+        <div className='col-md-5 col-left'>
           <h3>{props.title}</h3>
         </div>
         <div className='col-md-3 col-right'>

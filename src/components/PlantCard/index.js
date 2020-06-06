@@ -3,7 +3,7 @@ import './plant.css';
 
 function PlantCard(props) {
   return (
-    <div className='card' onClick={() => props.clickPhoto(props.id)}>
+    <div className='card' onClick={() => props.clickedPhoto(props.id)}>
       <div className='img-container'>
         <img
           className='img-thumbnail img-responsive'
