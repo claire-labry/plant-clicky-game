@@ -40,12 +40,12 @@ class App extends Component {
       this.setState({
         showSuccess: 1,
         score: 0,
-        clickplants: [],
+        clickedplants: [],
       });
     } else {
       this.setState({
         score: 0,
-        clickplants: [],
+        clickedplants: [],
       });
       console.log('duplicate');
       this.setState({
