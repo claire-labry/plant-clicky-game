@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/plant-clicky-game/static/css/main.140d4817.chunk.css",
+    "main.js": "/plant-clicky-game/static/js/main.a09ac552.chunk.js",
+    "main.js.map": "/plant-clicky-game/static/js/main.a09ac552.chunk.js.map",
+    "runtime-main.js": "/plant-clicky-game/static/js/runtime-main.448e202f.js",
+    "runtime-main.js.map": "/plant-clicky-game/static/js/runtime-main.448e202f.js.map",
+    "static/js/2.451acaf1.chunk.js": "/plant-clicky-game/static/js/2.451acaf1.chunk.js",
+    "static/js/2.451acaf1.chunk.js.map": "/plant-clicky-game/static/js/2.451acaf1.chunk.js.map",
+    "index.html": "/plant-clicky-game/index.html",
+    "precache-manifest.55cda06b539b3c7ce64d745908522002.js": "/plant-clicky-game/precache-manifest.55cda06b539b3c7ce64d745908522002.js",
+    "service-worker.js": "/plant-clicky-game/service-worker.js",
+    "static/css/main.140d4817.chunk.css.map": "/plant-clicky-game/static/css/main.140d4817.chunk.css.map",
+    "static/js/2.451acaf1.chunk.js.LICENSE.txt": "/plant-clicky-game/static/js/2.451acaf1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.448e202f.js",
+    "static/js/2.451acaf1.chunk.js",
+    "static/css/main.140d4817.chunk.css",
+    "static/js/main.a09ac552.chunk.js"
+  ]
+}
