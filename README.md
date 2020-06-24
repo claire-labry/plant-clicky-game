@@ -14,15 +14,15 @@ If you make it all the way to 12 plants, you will get a success message!
 
 The scoreboard will track your current score and your best score. So if you see score of 11 as your top score, keep pushin!
 
-#### Home page that displays the 12 cards and scoreboard
+### Home page that displays the 12 cards and scoreboard
 
 ![](img/plantgame.png)
 
-#### Shows the message when you hit a duplicate
+### Shows the message when you hit a duplicate
 
 ![](img/tryagain.png)
 
-#### Shows the message when you remember all 12 flowers and plants
+### Shows the message when you remember all 12 flowers and plants
 
 ![](img/win.png)
 
