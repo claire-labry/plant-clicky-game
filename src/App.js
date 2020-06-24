@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import PlantCard from './components/PlantCard';
 import Scoreboard from './components/Scoreboard';
+import Footer from './components/Footer';
 import plants from './plants.json';
 
 function mix(array) {
@@ -98,6 +99,13 @@ class App extends Component {
               clickedPhoto={this.clickedPhoto}
             />
           ))}
+        </div>
+        <div className='container'>
+          <Footer>
+            <a href='https://github.com/claire-labry/plant-clicky-game'>
+              <ion-icon name='logo-github'></ion-icon>
+            </a>
+          </Footer>
         </div>
       </div>
     );

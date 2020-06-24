@@ -1,0 +1,18 @@
+.footer {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 2px;
+  background-color: #f27d72;
+  text-align: center;
+  z-index: 4;
+}
+.footer a {
+  font-size: xx-large;
+  color: #f24c27;
+}
+.footer a:hover {
+  color: #122617;
+  text-decoration: none;
+}
