@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import PlantCard from './components/PlantCard';
-// import Wrapper from './components/Wrapper';
 import Scoreboard from './components/Scoreboard';
 import plants from './plants.json';
 
@@ -49,7 +48,7 @@ class App extends Component {
       });
       console.log('duplicate');
       this.setState({
-        showAlert: 1,
+        displayAlert: 1,
       });
     }
 
@@ -73,7 +72,7 @@ class App extends Component {
       <div className='container'>
         <div
           className='alert alert-danger'
-          style={{ opacity: this.state.showAlert }}
+          style={{ opacity: this.state.displayAlert }}
         >
           You clicked this plant already, try again!
         </div>
