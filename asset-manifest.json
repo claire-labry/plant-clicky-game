@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/plant-clicky-game/react-gh-pages/static/css/main.7f1ad6bd.chunk.css",
+    "main.js": "/plant-clicky-game/react-gh-pages/static/js/main.555411d0.chunk.js",
+    "main.js.map": "/plant-clicky-game/react-gh-pages/static/js/main.555411d0.chunk.js.map",
+    "runtime-main.js": "/plant-clicky-game/react-gh-pages/static/js/runtime-main.3ec0ed4b.js",
+    "runtime-main.js.map": "/plant-clicky-game/react-gh-pages/static/js/runtime-main.3ec0ed4b.js.map",
+    "static/js/2.451acaf1.chunk.js": "/plant-clicky-game/react-gh-pages/static/js/2.451acaf1.chunk.js",
+    "static/js/2.451acaf1.chunk.js.map": "/plant-clicky-game/react-gh-pages/static/js/2.451acaf1.chunk.js.map",
+    "index.html": "/plant-clicky-game/react-gh-pages/index.html",
+    "precache-manifest.34eda27039622cdb8c7658ad9516a204.js": "/plant-clicky-game/react-gh-pages/precache-manifest.34eda27039622cdb8c7658ad9516a204.js",
+    "service-worker.js": "/plant-clicky-game/react-gh-pages/service-worker.js",
+    "static/css/main.7f1ad6bd.chunk.css.map": "/plant-clicky-game/react-gh-pages/static/css/main.7f1ad6bd.chunk.css.map",
+    "static/js/2.451acaf1.chunk.js.LICENSE.txt": "/plant-clicky-game/react-gh-pages/static/js/2.451acaf1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3ec0ed4b.js",
+    "static/js/2.451acaf1.chunk.js",
+    "static/css/main.7f1ad6bd.chunk.css",
+    "static/js/main.555411d0.chunk.js"
+  ]
+}
