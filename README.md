@@ -4,6 +4,10 @@
 
 Plants and flowers are so wonderful to look at right?! You can test your memory with these plants and see if you can rememmber them all!
 
+## Deployed Link 
+
+https://claire-labry.github.io/plant-clicky-game/
+
 ## How to Use
 
 You will simply download the repository to your local computer and npm install the required packages. Open your terminal and the port will be waiting for you to click on it.
